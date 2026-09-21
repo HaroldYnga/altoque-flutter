@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550248545136",
+    "project_id": "altoque-emergencias",
+    "storage_bucket": "altoque-emergencias.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550248545136:android:c6d2e2fa5c056b98606db5",
+        "android_client_info": {
+          "package_name": "com.altoque.altoque"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJFsG_ECYFFSMtPi2jFB4MlqbtTFUXNVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

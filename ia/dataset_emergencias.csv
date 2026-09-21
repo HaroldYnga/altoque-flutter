@@ -1,0 +1,58 @@
+texto,categoria
+acaban de robar un celular,policia
+se llevaron el teléfono de una señora,policia
+entraron a una tienda y se llevaron productos,policia
+hay un hombre armado amenazando a varias personas,policia
+una persona me está siguiendo,policia
+entraron a robar a mi casa,policia
+un delincuente acaba de asaltar a un joven,policia
+me están amenazando con un cuchillo,policia
+presencié un robo en la calle,policia
+se llevaron una motocicleta estacionada,policia
+un hombre golpeó y asaltó a una persona,policia
+hay delincuentes dentro de una vivienda,policia
+mi mamá se desmayó y no responde,ambulancia
+una persona no puede respirar,ambulancia
+hay un hombre inconsciente en el suelo,ambulancia
+una señora se cayó y está sangrando,ambulancia
+mi padre tiene un fuerte dolor en el pecho,ambulancia
+una persona está convulsionando,ambulancia
+atropellaron a un peatón,ambulancia
+hubo un accidente y hay personas heridas,ambulancia
+un niño se cayó de las escaleras,ambulancia
+alguien necesita atención médica urgente,ambulancia
+una persona está perdiendo mucha sangre,ambulancia
+mi abuelo se siente muy mal y no puede caminar,ambulancia
+se está quemando una vivienda,bomberos
+hay mucho humo saliendo de un edificio,bomberos
+un automóvil está ardiendo,bomberos
+explotó un balón de gas,bomberos
+hay una fuga de gas en la cocina,bomberos
+una persona está atrapada dentro de una casa en llamas,bomberos
+se inició un incendio en una tienda,bomberos
+hay fuego en un departamento,bomberos
+se quemó un vehículo en la avenida,bomberos
+se produjo una explosión en una vivienda,bomberos
+necesitamos rescatar a una persona atrapada,bomberos
+sale humo negro de una fábrica,bomberos
+hay personas sospechosas en el parque,serenazgo
+varios sujetos están causando desorden en la calle,serenazgo
+hay una pelea en la vía pública,serenazgo
+unos vecinos están haciendo demasiado ruido,serenazgo
+hay personas tomando alcohol y causando molestias,serenazgo
+necesito apoyo municipal,serenazgo
+hay un grupo causando disturbios en el parque,serenazgo
+una persona sospechosa está observando las casas,serenazgo
+hay vehículos bloqueando la calle,serenazgo
+varias personas están alterando el orden,serenazgo
+hay una fiesta con ruido durante la madrugada,serenazgo
+necesitamos que venga seguridad municipal,serenazgo
+quiero cambiar la configuración,no_emergencia
+quiero saber dónde estoy,no_emergencia
+quiero volver a la pantalla principal,no_emergencia
+quiero consultar los números disponibles,no_emergencia
+cómo funciona esta aplicación,no_emergencia
+quiero cerrar la aplicación,no_emergencia
+muéstrame mi ubicación,no_emergencia
+quiero modificar mis permisos,no_emergencia
+quiero ver información de la aplicación,no_emergencia

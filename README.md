@@ -5,7 +5,6 @@ Aplicación móvil desarrollada con Flutter orientada a brindar apoyo en situaci
 ## Funciones principales
 
 - Gestión de contactos de emergencia.
-- Envío de alertas.
 - Acceso rápido a números de emergencia.
 - Obtención y envío de la ubicación del usuario.
 
@@ -15,7 +14,7 @@ Aplicación móvil desarrollada con Flutter orientada a brindar apoyo en situaci
 - Dart
 - Firebase
 - Firestore
-- Firebase Authentication
+
 
 
 
